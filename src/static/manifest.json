@@ -21,5 +21,5 @@
     }
   ],
   "permissions": ["cookies", "storage"],
-  "host_permissions": ["https://pleased-jaguar-26.clerk.accounts.dev/", "http://localhost"]
+  "host_permissions": ["https://pleased-jaguar-26.clerk.accounts.dev/"]
 }
